@@ -1,5 +1,8 @@
 # tf-optim: Barebones optimization of functions using tf.optimizers
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lazyoracle/tf-optim/HEAD)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lazyoracle/tf-optim/blob/main/example.ipynb)
+
 Have you wondered how well the optimizers used for training Machine Learning models perform on other optimization tasks? Have you been intrigued by all the hype around ADAM, RMSProp, SGD etc? 
 Do you want to see if the *momentum* that ML folks talk about helps your optimization problems as well?
 
